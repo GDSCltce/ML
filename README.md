@@ -103,3 +103,5 @@ Discover more resources, tutorials, and references in each branch:
 This repository is licensed under the [MIT License](./LICENSE). Feel free to use the code and resources for your learning and projects.
 
 Explore, learn, and contribute to the exciting world of AIML!
+
+##### AIML COURSE IS COMPLETED #####
